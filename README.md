@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 **maryamfatimaJ/maryamfatimaJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# 🌟 Maryam Fatima — AI Student | Future ML Engineer | Aspiring GSoC Contributor
+# 🌟 Maryam Fatima — AI Student
 
-Hi! I'm **Maryam**, a passionate **Artificial Intelligence student (Batch 2023)** who loves building smart systems, learning new technologies, and solving problems with clean and logical code.  
-Currently exploring **Web Development + AI**, preparing myself for **GSoC 2026**, and leveling up my skills every single day. 🚀  
+Hi! I'm **Maryam**, a passionate **Artificial Intelligence student (Batch 2023)** who loves building smart systems, learning new technologies, and solving problems.  
+Currently exploring **Web Development + AI** and leveling up my skills every single day. 🚀  
 
 ---
 
@@ -32,12 +32,6 @@ Currently exploring **Web Development + AI**, preparing myself for **GSoC 2026**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-003A2B?style=for-the-badge&logo=django&logoColor=white)
-
----
-
-
-![Maryam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
 
 ---
 
