@@ -29,5 +29,6 @@ Currently exploring **Web Development + AI** and leveling up my skills every sin
 ---
 **Thanks for visiting my profile!**  
 Always learning. Always building. Always growing. 
-
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=maryamfatimaJ&theme=dark)](https://git.io/streak-stats)
+--!>
