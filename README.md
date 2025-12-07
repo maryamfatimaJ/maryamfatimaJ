@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-# 🌟 Maryam Fatima — AI Student
+# Maryam Fatima — AI Student
 
 Hi! I'm **Maryam**, a passionate **Artificial Intelligence student (Batch 2023)** who loves building smart systems, learning new technologies, and solving problems.  
 Currently exploring **Web Development + AI** and leveling up my skills every single day. 🚀  
 
 ---
 
-## 🧠 My Interests
+## My Interests
 - Machine Learning  
 - NLP  
 - Web Development  
@@ -17,7 +17,7 @@ Currently exploring **Web Development + AI** and leveling up my skills every sin
 
 ---
 
-## 🛠️ Languages & Technologies
+## Languages & Technologies
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -34,7 +34,7 @@ Currently exploring **Web Development + AI** and leveling up my skills every sin
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
-Always learning. Always building. Always growing. 🚀  
+**Thanks for visiting my profile!**  
+Always learning. Always building. Always growing. 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=maryamfatimaJ&theme=dark)](https://git.io/streak-stats)
