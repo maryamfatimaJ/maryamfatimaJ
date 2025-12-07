@@ -6,17 +6,6 @@ Hi! I'm **Maryam**, a passionate **Artificial Intelligence student (Batch 2023-2
 Currently exploring **Web Development + AI** and leveling up my skills every single day. 
 
 ---
-
-## My Interests
-- Machine Learning  
-- NLP  
-- Web Development  
-- Databases  
-- Problem Solving  
-- AI-powered Projects  
-
----
-
 ## Languages & Technologies
 
 ### Programming Languages
