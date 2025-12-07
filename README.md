@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-**maryamfatimaJ/maryamfatimaJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 🌟 Maryam Fatima — AI Student
 
 Hi! I'm **Maryam**, a passionate **Artificial Intelligence student (Batch 2023)** who loves building smart systems, learning new technologies, and solving problems.  
