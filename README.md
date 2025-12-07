@@ -4,7 +4,7 @@
 
 Hi! I'm **Maryam**, a passionate **Artificial Intelligence student (Batch 2023-2027)** who loves building smart systems, learning new technologies, and solving problems.  
 Currently exploring **Web Development + AI** and leveling up my skills every single day. 
-
+Outside of tech, I enjoy reading books, sketching, and sometimes writing my thoughts
 ---
 ## Languages & Technologies
 
@@ -19,7 +19,6 @@ Currently exploring **Web Development + AI** and leveling up my skills every sin
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-003A2B?style=for-the-badge&logo=django&logoColor=white)
 
 ---
 ## Find Me Online
