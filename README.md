@@ -33,6 +33,11 @@ Currently exploring **Web Development + AI** and leveling up my skills every sin
 ![Django](https://img.shields.io/badge/Django-003A2B?style=for-the-badge&logo=django&logoColor=white)
 
 ---
+📈 GitHub Stats
+> *(Optional — replace YOUR-USERNAME with your GitHub username)*
+
+![Maryam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maryamfatimaJ&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maryamfatimaJ&layout=compact&theme=radical)
 
 **Thanks for visiting my profile!**  
 Always learning. Always building. Always growing. 
