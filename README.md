@@ -2,8 +2,7 @@
 
 # Maryam Fatima — AI Student
 
-Hi! I'm **Maryam**, a passionate **Artificial Intelligence student (Batch 2023-2027)** who loves building smart systems, learning new technologies, and solving problems.  
-Currently exploring **Web Development + AI** and leveling up my skills every single day. 
+Hi! I'm **Maryam**, a passionate **Artificial Intelligence student (Batch 2023-2027)** who loves building smart systems, learning new technologies, and solving problems.Currently exploring **Web Development + AI** and leveling up my skills every single day. 
 Outside of tech, I enjoy reading books, sketching, and sometimes writing my thoughts
 
 ---
