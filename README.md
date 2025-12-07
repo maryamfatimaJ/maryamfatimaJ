@@ -33,12 +33,11 @@ Currently exploring **Web Development + AI** and leveling up my skills every sin
 ![Django](https://img.shields.io/badge/Django-003A2B?style=for-the-badge&logo=django&logoColor=white)
 
 ---
-📈 GitHub Stats
-> *(Optional — replace YOUR-USERNAME with your GitHub username)*
+## Find Me Online
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-fatima1804/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@maryamfatima-j)
 
-![Maryam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maryamfatimaJ&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maryamfatimaJ&layout=compact&theme=radical)
-
+---
 **Thanks for visiting my profile!**  
 Always learning. Always building. Always growing. 
 
